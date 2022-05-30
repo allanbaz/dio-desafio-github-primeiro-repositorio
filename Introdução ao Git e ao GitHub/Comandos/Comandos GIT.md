@@ -16,7 +16,7 @@ Comandos básicos do Git que foram ensinados em aula.
 
 - **rmdir** *(Usado para apagar um diretório)*
 
-- **echo 'conteudo' > 'nomedoarquivo' ** *(Usado para criar um novo arquivo)*
+- **echo 'conteudo' > 'nomedoarquivo'** *(Usado para criar um novo arquivo)*
 
   
 
@@ -26,11 +26,17 @@ Comandos básicos do Git que foram ensinados em aula.
 - **ls** *(Exibe uma lista dos arquivos que estão no diretório)*
 - **mkdir** *(Usado para criar um novo diretório)*
 - **rm -rf** *(Usado para apagar um diretório)*
-- **echo 'conteudo' > 'nomedoarquivo' ** *(Usado para criar um novo arquivo)*
+- **echo 'conteudo' > 'nomedoarquivo'** *(Usado para criar um novo arquivo)*
 
 
 
- ![Comandos GIT Windows e Unix] (/C:\Workspace\dio-desafio-github-primeiro-repositorio\Introdução ao Git e ao GitHub\Comandos\comandos.png)
+#### - git init
+
+#### - git add
+
+#### - git commit
+
+
 
 
 
